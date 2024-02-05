@@ -1,8 +1,11 @@
 # myth-studyBook
 此仓库会记录我的技术个人探索
 
-## 2024年02月5日
+## 2024年02月6日
+New year holidays
 
+## 2024年02月5日
+New year holidays
 
 ## 2024年02月4日
 - [x] node-server 接口编写 60%
