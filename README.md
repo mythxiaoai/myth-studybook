@@ -1,6 +1,9 @@
 # myth-studyBook
 此仓库会记录我的技术个人探索
 
+## 2024年02月7日
+New year holidays
+
 ## 2024年02月6日
 New year holidays
 
