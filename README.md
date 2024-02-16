@@ -1,6 +1,14 @@
 # myth-studyBook
 此仓库会记录我的技术个人探索
 
+## 2024年02月17日
+
+- [ ] 构思web-ui项目界面设计
+- [ ] 英语视频笔记补充
+
+## 2024年02月16日
+New year holidays
+
 ## 2024年02月15日
 New year holidays
 
