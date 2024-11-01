@@ -1,6 +1,10 @@
 # myth-studyBook
 此仓库会记录我的技术个人探索
 
+# 2024年11月1日
+- [x] image-show组件做完 修bug
+- [x] 集合页改部分css
+
 # 2024年10月31日
 - [x] image-show组件做完
 - [ ] 集合页改部分css
