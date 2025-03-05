@@ -1,6 +1,10 @@
 # myth-studyBook
 此仓库会记录我的技术个人探索
 
+# 2025年3月5日
+- [x] 打卡3个
+- [ ] cloudflare和aws部署
+
 # 2025年2月27日
 - [x] vercel域名解析
 
